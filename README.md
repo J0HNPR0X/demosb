@@ -5,7 +5,7 @@ Proyecto en Java con Spring Boot
 
 ### Jonnathan Sumba [Repositorio](https://github/J0HNPR0X)
 
-## Descripcion 
+# Descripcion 
 
-### Es un proyecto que trata de gestinar toda la informacion de las personas en los barrios para asi aunuciarles alertas, evento, simulacros y emergencias para todos los habitantes, enviando un comunicado de parte del presidente 
+Es un proyecto que trata de gestinar toda la informacion de las personas en los barrios para asi anuniarles alertas, eventos simulacros y emergencias para todos los habitantes, enviando un comunicado de parte del presidente 
 
