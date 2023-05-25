@@ -9,3 +9,4 @@ Proyecto en Java con Spring Boot
 
 Es un proyecto que trata de gestinar toda la informacion de las personas en los barrios para asi anuniarles alertas, eventos simulacros y emergencias para todos los habitantes, enviando un comunicado de parte del presidente 
 
+©Copyright 2023 [ISTLRG](https://insteclrg.edu.ec) 
