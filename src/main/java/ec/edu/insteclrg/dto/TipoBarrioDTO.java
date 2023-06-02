@@ -1,6 +1,4 @@
 package ec.edu.insteclrg.dto;
-
-import jakarta.persistence.Column;
 import lombok.Data;
 
 @Data

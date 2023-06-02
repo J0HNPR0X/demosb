@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
 import ec.edu.insteclrg.common.ApiException;
 
 @Service
-public abstract class GenericCrudServiceImp1<DOMAIN, DTO> implements GenericCrudService<DOMAIN, DTO> {
+public abstract class GenericCrudServiceImpl<DOMAIN, DTO> implements GenericCrudService<DOMAIN, DTO> {
 
 	@Autowired
 	private JpaRepository<DOMAIN, Long> repository;
